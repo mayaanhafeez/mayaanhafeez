@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Ayaan
+# hey, I'm Ayaan 👾
 
 **Software Engineering Student · AI Developer · Builder of weird and (most not) useful things**
 
@@ -21,6 +21,7 @@ I like building things that sit at the intersection of systems programming and A
 - 🔭 Currently working on AI-powered tools at Elev8AI
 - 🎮 Building [TerminalMystery](https://github.com/mayaanhafeez/TerminalMystery) — a text adventure engine in Lua
 - 🐍 Exploring image-to-ASCII pipelines with [ASCII](https://github.com/mayaanhafeez/ASCII)
+- 🍓 Tinkering with [raspberry-pi-os](https://github.com/mayaanhafeez/raspberry-pi-os)
 
 ---
 
@@ -35,14 +36,14 @@ Currently    learning more systems-level stuff
 
 ---
 
-### pinned work
+### projects
 
-| Project | What it does | Lang |
-|---|---|---|
-| [ASCII](https://github.com/mayaanhafeez/ASCII) | converts images to ASCII art for spamming in chats | Python |
-| [TerminalMystery](https://github.com/mayaanhafeez/TerminalMystery) | terminal-based mystery/adventure game engine | Lua |
-| [surgraft](https://github.com/mayaanhafeez/surgraft) | *(add a one-liner description here)* | Python |
-| [PlayMG](https://github.com/mayaanhafeez/PlayMG) | forked media/game utility | C++ |
+- 🖼️ **[ASCII](https://github.com/mayaanhafeez/ASCII)** — convert images to ASCII art to spam in chats
+- 🕹️ **[TerminalMystery](https://github.com/mayaanhafeez/TerminalMystery)** — terminal-based mystery/adventure game engine in Lua
+- 🎮 **[PlayMG](https://github.com/mayaanhafeez/PlayMG)** — forked media/game utility in C++
+- 🌿 **[surgraft](https://github.com/mayaanhafeez/surgraft)** — *tool to allow LLMs to copy functions from one file to another with 0 tokens*
+- 🍓 **[raspberry-pi-os](https://github.com/mayaanhafeez/raspberry-pi-os)** — bare metal kernel
+- ⚙️ **[nvim-config](https://github.com/mayaanhafeez/nvim-config)** — personal neovim setup (feel free to sugget improvements)
 
 ---
 
@@ -50,9 +51,11 @@ Currently    learning more systems-level stuff
 
 <div align="center">
 
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaanhafeez&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+<img src="https://komarev.com/ghpvc/?username=mayaanhafeez&color=blue" alt="profile views" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaanhafeez&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+<br><br>
+
+<img src="https://ghchart.rshah.org/mayaanhafeez" alt="GitHub Contribution Graph" />
 
 </div>
 
