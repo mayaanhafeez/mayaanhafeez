@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey, I'm Ayaan 👾
+# hey, I'm Ayaan
 
-**Software Engineering Student · AI Developer · Builder of weird and useful things**
+**Software Engineering Student · AI Developer · Builder of weird and (most not) useful things**
 
 [![Portfolio](https://img.shields.io/badge/portfolio-ayaanhafeez.vercel.app-black?style=flat-square&logo=vercel)](https://ayaanhafeez-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-ayaanhafeez-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ayaanhafeez)
@@ -16,12 +16,11 @@
 
 I'm a 3rd year Software Engineering student at the **University of Alberta** and an AI Developer at **Elev8AI**, based in Edmonton, AB.
 
-I like building things that sit at the intersection of systems programming and AI — from terminal tools to image converters to things I probably shouldn't have built but did anyway.
+I like building things that sit at the intersection of systems programming and AI: from terminal tools to image converters to things I probably shouldn't have built but did anyway.
 
 - 🔭 Currently working on AI-powered tools at Elev8AI
 - 🎮 Building [TerminalMystery](https://github.com/mayaanhafeez/TerminalMystery) — a text adventure engine in Lua
 - 🐍 Exploring image-to-ASCII pipelines with [ASCII](https://github.com/mayaanhafeez/ASCII)
-- 🌱 Always learning something new in systems, ML, or both
 
 ---
 
